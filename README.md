@@ -29,7 +29,7 @@ Para configurar el archivo .gitignore, es necesario especificar los archivos y d
 config.json
 .env
 
-## 3g) Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?
+## 3g) Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores?¿Por qué?
 El resultado es el mismo porque el puntero contiene la dirección de memoria de "variable". En el punto 4 obtenemos la dirección de memoria del puntero, la cual es diferente de la dirección de memoria de la variable. 
 
 
